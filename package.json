@@ -1,0 +1,22 @@
+{
+    "name": "awesomebook_online",
+    "version": "1.0.0",
+    "description": "This project is an online library for storage of books locally using javascript objects and arrow notation.",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/supreeti/Awesomebook_Online.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/supreeti/Awesomebook_Online/issues"
+    },
+    "homepage": "https://github.com/supreeti/Awesomebook_Online#readme"
+  }
+  
